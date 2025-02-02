@@ -30,6 +30,10 @@ Passionate web development engineer specializing in the design and development o
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
+<div align="center" style="margin: 20px 0">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF">
+</div>
+
 ## 📬 Contact Me  
 
 **Available for freelance projects and full-time opportunities.** If you're looking for a skilled developer to help build scalable web applications or optimize your existing software solutions, feel free to reach out!  
