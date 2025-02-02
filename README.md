@@ -6,7 +6,7 @@
 
 ## About Me
 
-Passionate web development engineer specializing in the design and development of robust, high-performance web applications. Expertise in Spring Boot, Express.js, Angular, and ReactJS with proficiency in microservices architecture and DevOps tools for automating CI/CD pipelines.
+Passionate web development engineer specializing in the design and development of robust, high-performance web applications. Expertise in Spring Boot, Node.js, Angular, and ReactJS with proficiency in microservices architecture and DevOps tools for automating CI/CD pipelines.
 
 <div align="center" style="margin: 20px 0">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF">
