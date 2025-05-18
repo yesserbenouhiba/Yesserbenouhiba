@@ -66,7 +66,7 @@ Passionate web development engineer specializing in the design and development o
 
 <p align="left">
   <a href="https://linkedin.com/in/yasser-ben-ouhiba"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://yasserbenouhiba.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge"></a>
+  <a href="https://portfolio-yasserbenouhiba.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:yasserbenouhiba@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
